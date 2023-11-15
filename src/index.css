@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.main-color{
+  color: #0AAD0A !important;
+}
+.main-bg-color{
+  background-color: #0AAD0A !important;
+}
+a , a:hover {
+  text-decoration: none !important;
+  color:black !important;
+}
+.star-rate-specific-product{
+  color: rgb(255, 213, 0) !important;
+}
+/* Cart Page */
+.cart-color{
+  color: rgba(28, 167, 28, 0.72) !important;
+}
+.trach-cart{
+  text-decoration: none !important;
+  border: none !important;
+}
+.btn-outline-success{
+  border-color: #0AAD0A !important ;
+}
+.shop-cart-bg{
+  background-color: #eee !important;
+}
+.text-primary:hover{
+  color:white !important;
+}
